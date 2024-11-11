@@ -1,10 +1,9 @@
 # Movies Popular 2024
 
 Obtiene las peliculas populares de la API:  https://www.themoviedb.org
-
-- Arquitecura MVVM 
+ 
 - Clean Arquitecure
-- Coroutines
+- MVVM
 - Retrofit
 - Flow
 - Hilt
@@ -12,5 +11,6 @@ Obtiene las peliculas populares de la API:  https://www.themoviedb.org
 
 # Screenshots
 
+![](https://github.com/sabrinaar/popularmovies2024Compose/blob/master/gif/popularmoviescompose.gif)
 
 
