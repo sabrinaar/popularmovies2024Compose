@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopularMoviesCompose</string>
+
+    <!--  Home -->
+    <string name="home_title">Popular Movies</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">back</string>
+</resources>
